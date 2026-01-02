@@ -1,10 +1,10 @@
 ---
-title: "rgisnet"
+title: "R-GIS"
 ---
 
-This is a Quarto website.
+Let's use R as a GIS
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In this website, we discuss spatial data science solutions in R!
 
 ```{r}
 1 + 1
