@@ -6,6 +6,8 @@ Let's use R as a GIS
 
 In this website, we discuss spatial data science solutions in R!
 
+Babak Naimi
+
 ```{r}
 1 + 1
 ```
